@@ -1,4 +1,4 @@
-# Atlassian Coding Challenge
+# Message Parser Coding
 
 ---
 
